@@ -28,4 +28,4 @@ Time can use **12-hour or 24-hour format**, with optional seconds.
 
 ## Compatibility
 
-This mod uses XAML diagnostics and may conflict with other File Explorer mods that also use XAML diagnostics.
+This mod uses XAML diagnostics, which allows only one diagnostics consumer per Explorer process. Known conflicts include **Windows 11 File Explorer Styler**, **ExplorerBlurMica**, **TranslucentTB**, and other tools/mods that attach to File Explorer XAML diagnostics. If another consumer blocks the connection, the label will not appear.
