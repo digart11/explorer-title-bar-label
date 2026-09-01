@@ -25,3 +25,7 @@ Choose the date parts and order you prefer:
 - **Numeric separator:** `/`, `-`, `.`
 
 Time can use **12-hour or 24-hour format**, with optional seconds.
+
+## Compatibility
+
+This mod uses XAML diagnostics and may conflict with other File Explorer mods that also use XAML diagnostics.
