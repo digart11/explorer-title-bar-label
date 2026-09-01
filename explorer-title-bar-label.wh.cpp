@@ -1,8 +1,8 @@
 // ==WindhawkMod==
-// @id              explorer-title-bar-text
+// @id              explorer-title-bar-label
 // @name            Explorer Title Bar Label
 // @description     Add custom text, date and time to the Windows 11 File Explorer title bar.
-// @version         0.7.1
+// @version         1.0.0
 // @author          digitalART
 // @github          https://github.com/digart11
 // @include         explorer.exe
@@ -18,7 +18,27 @@ Add custom text, date and time to the right side of the Windows 11 File Explorer
 
 ![Explorer Title Bar Label](https://raw.githubusercontent.com/digart11/explorer-title-bar-label/main/images/screenshot.png)
 
-Customize the label's text, date style, time, font, color, opacity and spacing.
+## Features
+
+- Custom text, date and time
+- Flexible date display
+- 12-hour or 24-hour time with optional seconds
+- Font, size, weight and color
+- Opacity and spacing
+- Live updates
+
+## Date and time
+
+Choose the date parts and order you prefer:
+
+- **Weekday:** None, Mon, Monday
+- **Day number:** 1, 01
+- **Month:** 8, 08, Aug, August
+- **Year:** None, 26, 2026
+- **Date order:** Month-Day-Year, Day-Month-Year, Year-Month-Day
+- **Numeric separator:** `/`, `-`, `.`
+
+Time can use **12-hour or 24-hour format**, with optional seconds.
 */
 // ==/WindhawkModReadme==
 
