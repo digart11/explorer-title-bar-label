@@ -16,6 +16,8 @@
 
 Add custom text, date and time to the right side of the Windows 11 File Explorer title bar.
 
+![Explorer Title Bar Label](https://raw.githubusercontent.com/digart11/explorer-title-bar-label/main/images/screenshot.png)
+
 Customize the label's text, date style, time, font, color, opacity and spacing.
 */
 // ==/WindhawkModReadme==
